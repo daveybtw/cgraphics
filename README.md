@@ -1,6 +1,6 @@
 # cgraphics
 # Estudiantes
-David Alejandro Pereira: 1744403-3743 
+David Alejandro Pereira: 1744403-3743 <br>
 Juan Felipe Alvarado: 1745283-3743
 
 # Descripcion y uso del aplicativo

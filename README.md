@@ -1,7 +1,7 @@
 # cgraphics
 # Estudiantes
-1744403-3743 
-1745283-3743
+David Alejandro Pereira: 1744403-3743 
+Juan Felipe Alvarado: 1745283-3743
 
 # Descripcion y uso del aplicativo
 Este juego es una copia del proyecto del libro guia, se cambiaron todos los sprites y se agregaron algunos objetos, para iniciarlo se 
